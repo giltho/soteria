@@ -6,6 +6,7 @@
 
 (cram
  (deps
+  (package soteria)
   ./standalone.exe
   ./test.sh
   ./sym_state/prelude.ml
